@@ -46,3 +46,20 @@ Think about the difference between `p` and `puts`. Using `p` in development is h
 Keep your code simple. You have all the tools you need to effectively construct the game. This is an exercise in organization, planning, and creativity.
 
 Have fun! This medium is prime for easter eggs and (class appropriate) inside jokes.
+
+### Jokes Game
+1) Intro
+- Greeting: 'Comedy Corner'
+- Intro joke
+- Instructions: pick a number that will prompt an output from an array of jokes
+- Allow user to type exit to quit game
+
+2) Intro joke
+- Joke: 'What did the horse say after it tripped?'
+- allow user input, store in variable `joke_answer`
+- Right Response: 'Okay, seems like you are joke pro. Pick a number from 0 to 4 for another joke.'
+- Wrong Response: "Help!!! I've fallen, and I can't giddy-up!"
+
+3) Array of jokes
+```rb
+```
